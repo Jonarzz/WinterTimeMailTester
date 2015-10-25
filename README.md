@@ -18,4 +18,4 @@ The first case applies to Gmail and WP, while the second one applies to Onet.
 ![Onet](http://i.imgur.com/VDeibLK.png)
 
 #### o2
-*[waiting for the screenshot]*
+![o2](http://i.imgur.com/fSdAwos.png)
