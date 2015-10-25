@@ -10,8 +10,8 @@ __author__ = 'Jonarzz'
 def send_mails(number_of_mail_sent):
     msg = MIMEMultipart()
     msg['From'] = FROM_NAME
-    msg['Subject'] = date_now()
-    msg.attach(MIMEText(number_of_mail_sent + MESSAGE + date_now()))
+    msg['Subject'] = str(number_of_mail_sent) + ". " + date_now()
+    msg.attach(MIMEText(str(number_of_mail_sent) + MESSAGE + date_now()))
 
     server = smtplib.SMTP('smtp.gmail.com:587')
     server.starttls()
