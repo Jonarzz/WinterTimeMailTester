@@ -1,5 +1,5 @@
 # Winter Time Mail Tester
-Python script that should send mails during changing to winter time which will allow to check how different mail hosts deal with the change
+Python script that should send mails during changing to winter time which will allow to check how different mail hosts deal with the change.
 
 # The result of the experiment
 I tested the most popular mail servers in my country: Gmail, WP, Onet and o2. There were two possibilities: 
