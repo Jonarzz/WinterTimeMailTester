@@ -6,7 +6,7 @@ I tested the most popular mail servers in my country: Gmail, WP, Onet and o2. Th
 * mails are not sorted by date and the mail that got there later will show up with earlier hour
 * mails are sorted by date, so they are not in order of time they were sent
 
-The first case applies to Gmail and WP, while the second one applies to Onet.
+The first case applies to Gmail, WP and o2, while the second one applies to Onet.
 
 #### Gmail
 ![Gmail](http://i.imgur.com/mhoCaVv.png)
